@@ -34,6 +34,10 @@ Nessa sessão, coloco cursos que fiz que mudaram a forma como vejo estatística.
 
 ### [Uma Introdução Intuitiva a Probabilidade](https://www.coursera.org/learn/introductiontoprobability)
 *por Karl Schmedders, da Universidade de Zurique*
+#### O que é o curso?
+(a ser escrito)
+#### Por que foi escolhido?
+(a ser escrito)
 
 ### [Melhorando suas Inferências Estatísticas](https://www.coursera.org/learn/statistical-inferences)
 *por Daniel Lakens, da Universidade de Tecnologia de Eindhoven*
