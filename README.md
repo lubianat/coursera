@@ -66,7 +66,8 @@ Há um trabalho de didática bonito, e o aprendizado é feito passo a passo, sem
 
 #### Por que foi escolhido? 
  Depois de uns anos programando, não usar sistemas de controle de versão (como o Git) é simplesmente impensável. Todo mundo usa, é que nem Havaianas. 
- Esse curso é o melhor material que encontrei para alguém que tá caindo de pára-quedas nesse mundo e quer entender melhor o que são essas coisas. 
+ Esse curso é o melhor material que encontrei para alguém que tá caindo de pára-quedas nesse mundo e quer entender melhor o que são essas coisas.
+ E tem uns *insights* interessantes até para quem já tem uma experiência com git e GitHub. Fiz o curso depois do meu centésimo repositório e ainda foi bastante útil!
 
 
 # Contribuições: 
