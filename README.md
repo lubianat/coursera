@@ -43,3 +43,17 @@ Já há conteúdo demais sobre programação pela internet. Por aí você conseg
 Essa seção não é para isso. 
 
 Essa seção é uma seleção de cursos relacionados a programação que são, por algum motivo, diferenciados. Que são de fato úteis para quem trabalha (ou pretente trabalhar) escrevendo código. A ideia é conter desde cursos voltados para inciantes até cursos mais avançados. 
+
+## [Introdução a Git e ao GitHub](https://www.coursera.org/learn/introduction-git-github)
+*por instrutores do Google*
+
+#### O que é o curso?
+
+O curso é uma introdução completa ao sistema de controle de versão Git e seu parceiro online, o GitHub.Começar a usar git e github nem sempre é fácil: são muitos termos novos, e formas de trabalhar que desafiam o que a gente entende por arquivos. Nesse curso, os instrutores realmente fazem um bom trabalho em esclarecer os conceitos chave desse mundo. 
+
+Há um trabalho de didática bonito, e o aprendizado é feito passo a passo, sem uma avalanche de termos e coisas novas. 
+
+#### Por que foi escolhido? 
+ Depois de uns anos programando, não usar sistemas de controle de versão (como o Git) é simplesmente impensável. Todo mundo usa, é que nem Havaianas. 
+ Esse curso é o melhor material que encontrei para alguém que tá caindo de pára-quedas nesse mundo e quer entender melhor o que são essas coisas. 
+
