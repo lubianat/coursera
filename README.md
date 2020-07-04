@@ -2,6 +2,8 @@
 Recomendações de cursos do Coursera que são úteis para viver uma vida de pesquisa em ciências da vida (que é o que eu conheço).
 Provavelmente são úteis para outras pessoas também.
 
+(Cursos em inglês, talvez alguns tenham legendas)
+
 # Introdução
 
 Há muito tempo que sou um grande fã de cursos online, em especial da plataforma do [Coursera](https://www.coursera.org/programs/universidade-de-sao-paulo-br-on-coursera-mvxtw). Lá encontrei cursos muito bons, que me ajudaram (e continuam ajudando) na minha formação como cientista. 
