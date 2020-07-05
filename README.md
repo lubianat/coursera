@@ -37,16 +37,27 @@ Nessa sessão, coloco cursos que fiz que mudaram a forma como vejo estatística.
 ### [Uma Introdução Intuitiva a Probabilidade](https://www.coursera.org/learn/introductiontoprobability)
 *por Karl Schmedders, da Universidade de Zurique*
 #### O que é o curso?
-(a ser escrito)
+
+O curso da Universidade de Zurique é apresentado por um professor da Economia e pega uns aspectos básicos de economia. A didática é boa e o professor tem um estilo engraçado, com uma gravata borboleta característica. 
+
+As aulas passam por temas fundamentais para entender probabilidades, esclarecendo conceitos fundamentais, como a distribuição normal e a probabilidade condicional. É uma revisão perfeita para quem quer aprender mais sobre estatística, mas ainda não tem com total clareza uns aspectos mais fundamentais.  
+
 #### Por que foi escolhido?
-(a ser escrito)
+A estatística dada pra nós na universidade assume que entemos muito destes conceitos. Mas isso não  verdade. Nem todo mundo teve oportunidade de ter um ensino médio com base matemática forte, né? E mesmo para quem teve, o curso deixa vários conceitos mais claros. Ele foi escolhido por ser um degrau excelente antes de partir para cursos de estatísticas mais profundos, como o [Melhorando suas Inferências Estatísticas](https://www.coursera.org/learn/statistical-inferences).
+
 
 ### [Melhorando suas Inferências Estatísticas](https://www.coursera.org/learn/statistical-inferences)
 *por Daniel Lakens, da Universidade de Tecnologia de Eindhoven*
 #### O que é o curso?
-(a ser escrito)
+
+O Daniel Lakens é um psicólogo da Universidade de Tecnologia de Eindhoven e uma das figuras marcantes do cenário da reprodutiblidade científica. No curso, ele discute as questões centrais do uso da estatística no âmbito científico. Em um trabalho de didática exemplar, ele foca em tornar claro termos que são muito confundidos, como "p-valor" e "intervalo de confiança". Com simulações em R (fáceis de rodar, mesmo para quem nunca programou), o curso vai na contramão do uso mecânico, repetitivo de estatística e realmente ensina. 
+
+Ao mesmo tempo que explica a estatística frequentista, Daniel nos introduz ao mundo da verossimilhança (*likelihood*) e da estatística bayesiana. O curso abre novas formas de enxergamos nossos desafios e evitarmos "fazermos a nós mesmos de bobos" (como ele fala). 
+
 #### Por que foi escolhido?
-(a ser escrito)
+Conheci o Daniel "pessoalmente", por vídeo chamada, por causa do [Red Team Challenge](https://daniellakens.blogspot.com/2020/05/red-team-challenge.html), no qual ele me pagou 200 dólares para revisar um paper (!!!!). Ele é uma figuraça, e tem muita clareza em suas aulas.
+Esse curso dele é uma maravilha. Ele deixa no chinelo as abordagens tradicionais de estatística acadêmica, focando em realmente ensinar a pensar. Acredito que qualquer cientista que faça esse curso vai receber um teletransporte para uma dimensão nova de compreensão de p-valores e intervalos de confiança.
+
 
 # Cursos relacionados a programação
 
