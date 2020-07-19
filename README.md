@@ -58,6 +58,14 @@ Ao mesmo tempo que explica a estatística frequentista, Daniel nos introduz ao m
 Conheci o Daniel "pessoalmente", por vídeo chamada, por causa do [Red Team Challenge](https://daniellakens.blogspot.com/2020/05/red-team-challenge.html), no qual ele me pagou 200 dólares para revisar um paper (!!!!). Ele é uma figuraça, e tem muita clareza em suas aulas.
 Esse curso dele é uma maravilha. Ele deixa no chinelo as abordagens tradicionais de estatística acadêmica, focando em realmente ensinar a pensar. Acredito que qualquer cientista que faça esse curso vai receber um teletransporte para uma dimensão nova de compreensão de p-valores e intervalos de confiança.
 
+### [Melhorando suas Perguntas Estatísticas](https://www.coursera.org/learn/improving-statistical-questions)
+*por Daniel Lakens, da Universidade de Tecnologia de Eindhoven*
+#### O que é o curso?
+O segundo curso de Daniel Lakens é uma extensão ousada do primeiro, que sai ainda mais do ensino tradicional de estatística. Agora Daniel pega mais da filosofia da ciência e da teoria e nos provoca não sobre *como* usar ferramentas da estatística, mas *por que* usar. Questionamentos fundamentais, que são agregados aqui. 
+3 anos depois do [Melhorando suas Inferências Estatísticas](https://www.coursera.org/learn/statistical-inferences), Daniel aparece de forma mais assertiva, transmutando anos de estudo em confiança para mudar a forma que vemos estatística.
+
+#### Por que foi escolhido?
+Após terminar o curso [Melhorando suas Inferências Estatísticas](https://www.coursera.org/learn/statistical-inferences),fiquei fascinado pelo talento do Daniel em explicar conceitos complicados de maneira simples e agradável. Essa continuação continua provocante e educativa, refazendo o olhar que tinha sobre pesquisa. 
 
 # Cursos relacionados a programação
 
