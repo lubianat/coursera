@@ -26,6 +26,16 @@ O curso mistura prática e teoria sobre se sentir melhor. A professora debulha a
 #### Por que foi escolhido? 
 Antes de ser qualquer coisa, precisamos ser felizes. E esse curso realmente ajuda a entender como, sem papo furado e sem enrolação. 
 
+
+### [Escrevendo na ciência](https://www.coursera.org/learn/sciwrite)
+*por Kristin Sainani, da Universidade de Stanford*
+
+#### O que é o curso?
+TBD
+
+#### Por que foi escolhido? 
+TBD
+
 # Cursos relacionados a estatística 
 
 Sejamos honestos: nossa base de estatística é fraca. Apesar de usarmos para lá e para cá coisas como "intervalo de confiança" e "p-valor", além de uma quantidade enorme de testes com nomes de gringo, quem entende *realmente* o que todos esses conceitos implicam? 
