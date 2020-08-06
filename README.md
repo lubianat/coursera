@@ -36,6 +36,16 @@ TBD
 #### Por que foi escolhido? 
 TBD
 
+
+### [Iniciando e planejando projetos](https://www.coursera.org/learn/project-planning)
+*porMargaret Meloni, da Universidade da California, Irvine
+
+#### O que é o curso?
+TBD
+
+#### Por que foi escolhido? 
+TBD
+
 # Cursos relacionados a estatística 
 
 Sejamos honestos: nossa base de estatística é fraca. Apesar de usarmos para lá e para cá coisas como "intervalo de confiança" e "p-valor", além de uma quantidade enorme de testes com nomes de gringo, quem entende *realmente* o que todos esses conceitos implicam? 
